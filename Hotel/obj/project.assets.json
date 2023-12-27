@@ -10742,11 +10742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mmmmm\\OneDrive\\Desktop\\All myProjects\\Hotel\\Hotel\\Hotel.csproj",
-      "projectName": "Hotel",
-      "projectPath": "C:\\Users\\mmmmm\\OneDrive\\Desktop\\All myProjects\\Hotel\\Hotel\\Hotel.csproj",
+      "projectUniqueName": "C:\\Users\\mmmmm\\OneDrive\\Desktop\\All myProjects\\woodStore\\Hotel\\woodStore.csproj",
+      "projectName": "woodStore",
+      "projectPath": "C:\\Users\\mmmmm\\OneDrive\\Desktop\\All myProjects\\woodStore\\Hotel\\woodStore.csproj",
       "packagesPath": "C:\\Users\\mmmmm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mmmmm\\OneDrive\\Desktop\\All myProjects\\Hotel\\Hotel\\obj\\",
+      "outputPath": "C:\\Users\\mmmmm\\OneDrive\\Desktop\\All myProjects\\woodStore\\Hotel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

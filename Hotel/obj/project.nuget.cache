@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tYD6z/dBRNNgAGnoJnd7Tf+yCwTa3uUIEJ4EzAHG1YdlOvBfUHhU+NJ+WzLPdpnwJqIDXdu5ApVlx32hUJRW5g==",
+  "dgSpecHash": "Q0SJM0Wvi2OglzhnbwQ5zgAvFjx8akcq20chRYn8tuYO/8jH4osqo3YIcn95HGSxSGvMTfbjQ/1Cu9/YiibsSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mmmmm\\OneDrive\\Desktop\\All myProjects\\Hotel\\Hotel\\Hotel.csproj",
+  "projectFilePath": "C:\\Users\\mmmmm\\OneDrive\\Desktop\\All myProjects\\woodStore\\Hotel\\woodStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mmmmm\\.nuget\\packages\\entityframework\\6.0.0\\entityframework.6.0.0.nupkg.sha512",
     "C:\\Users\\mmmmm\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",

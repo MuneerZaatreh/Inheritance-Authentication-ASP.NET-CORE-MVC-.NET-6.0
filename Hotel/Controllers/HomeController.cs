@@ -9,9 +9,11 @@ namespace Hotel.Controllers
     public class HomeController : AdminCoreController
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly AppDbContext _context;
         public HomeController(ILogger<HomeController> logger, IConfiguration configuration, AppDbContext dbContext) : base(configuration, dbContext)
         {
             _logger = logger;
+            _context = dbContext;
         }
 
         public IActionResult Index()
